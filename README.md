@@ -1,9 +1,10 @@
 # COMP 4320
-- Introduction to Computer Networks Projects and Homework
-- DISCLAIMER: By duplicating, copying, or redistributing material found in this the website and GitHub Repository, you(the "User") are in direct violation of Auburn University Title XII Student Academic Honesty Code: Violations 1201.4 (Violations of the Student Academic Honesty Code).
+COMP 4320 Projects and Homework
+Introduction to Computer Networks
+
 ```
 
-        Total Views per Day from 2022-10-11 to 2022-12-15
+        Total Views per Day from 2022-10-11 to 2022-12-16
 
         Repository Views
       14 ┼                      ╭╮
@@ -11,18 +12,18 @@
       12 ┤       ││  ╭╮         ││  ││
       11 ┤       ││  ││         ││  ││╭╮
       10 ┤       ││  ││         │╰╮ ││││
-       9 ┤       ││  ││         │ │ ││││
-       8 ┤       ││  ││         │ │ ││││
-       7 ┤       ││╭╮││         │ │ ││││
-       7 ┤       ││││││         │ │ ││││
-       6 ┤ ╭╮    ││││││         │ │ │││╰╮
-       5 ┤ ││    ││││││         │ │ │││ │
-       4 ┤ ││    ││││││ ╭╮      │ │ │││ │
-       3 ┤ ││    │││││╰╮││      │ │ │││ │
-       2 ┤ ││    │││││ │││      │ │ │││ │
-       1 ┼╮││  ╭╮│││││ │││╭╮  ╭╮│ │ │││ │
-       0 ┤╰╯╰──╯╰╯╰╯╰╯ ╰╯╰╯╰──╯╰╯ ╰─╯╰╯ ╰──────────────────────────────────
+       9 ┤       ││  ││         │ │ ││││                                  ╭╮
+       8 ┤       ││  ││         │ │ ││││                                  ││
+       7 ┤       ││╭╮││         │ │ ││││                                  ││
+       7 ┤       ││││││         │ │ ││││                                  ││
+       6 ┤ ╭╮    ││││││         │ │ │││╰╮                                 ││
+       5 ┤ ││    ││││││         │ │ │││ │                                 ││
+       4 ┤ ││    ││││││ ╭╮      │ │ │││ │                                 ││
+       3 ┤ ││    │││││╰╮││      │ │ │││ │                                 ││
+       2 ┤ ││    │││││ │││      │ │ │││ │                                 ││
+       1 ┼╮││  ╭╮│││││ │││╭╮  ╭╮│ │ │││ │                                 ││
+       0 ┤╰╯╰──╯╰╯╰╯╰╯ ╰╯╰╯╰──╯╰╯ ╰─╯╰╯ ╰─────────────────────────────────╯╰
 
-        Chart last updated - Thu Dec 15 00:42:54 2022 UTC
+        Chart last updated - Fri Dec 16 00:39:53 2022 UTC
         
 ```
