@@ -4,7 +4,7 @@ Introduction to Computer Networks
 
 ```
 
-        Total Views per Day from 2022-10-11 to 2022-12-17
+        Total Views per Day from 2022-10-11 to 2022-12-18
 
         Repository Views
       14 ┼                      ╭╮
@@ -21,9 +21,9 @@ Introduction to Computer Networks
        4 ┤ ││    ││││││ ╭╮      │ │ │││ │                                 ││
        3 ┤ ││    │││││╰╮││      │ │ │││ │                                 ││
        2 ┤ ││    │││││ │││      │ │ │││ │                                 ││
-       1 ┼╮││  ╭╮│││││ │││╭╮  ╭╮│ │ │││ │                                 │╰╮
-       0 ┤╰╯╰──╯╰╯╰╯╰╯ ╰╯╰╯╰──╯╰╯ ╰─╯╰╯ ╰─────────────────────────────────╯ ╰
+       1 ┼╮││  ╭╮│││││ │││╭╮  ╭╮│ │ │││ │                                 │╰─╮
+       0 ┤╰╯╰──╯╰╯╰╯╰╯ ╰╯╰╯╰──╯╰╯ ╰─╯╰╯ ╰─────────────────────────────────╯  ╰
 
-        Chart last updated - Sat Dec 17 00:38:09 2022 UTC
+        Chart last updated - Sun Dec 18 00:38:35 2022 UTC
         
 ```
